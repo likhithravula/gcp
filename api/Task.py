@@ -23,7 +23,7 @@ class Task(Resource):
                 "numberOfSopsEmitted": 1,
                 "outcome": "<outcome>"
                 }],
-            total: 2
+            "total": 2
             }
         },200
     # def post(self):
